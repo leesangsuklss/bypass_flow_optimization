@@ -24,7 +24,7 @@ Note: The optimization logic with the pymoo library considers the trade-off betw
 
 ---
 
-**Launch the Notebook directly**
-    ```bash
+**Launch the Notebook directly**  
+    ```
     jupyter notebook MV_OPT_multi-objective_SW_conc_wrapper.ipynb
     ```
