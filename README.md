@@ -1,6 +1,6 @@
 # Multi-Objective Optimization for novel RO vessel design
 
-This repository contains a Python implementation for analyzing and optimizing **Seawater Reverse Osmosis (SWRO)** processes. The framework focuses on the introduction of new bypass flow feature and performs multi-objective optimization to find optimal bypass flow rates and locations to balance system performance metrics.
+This repository contains a Python implementation for analyzing and optimizing **Seawater Reverse Osmosis (SWRO)** processes. The framework focuses on the introduction of new bypass flow feature and performs multi-objective optimization to find optimal bypass flow rates and locations to balance system performance metrics under different feed salinities.
 
 ---
 
