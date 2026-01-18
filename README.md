@@ -22,11 +22,11 @@ The code is based on thermodynamic models for full-scale RO system. Key correlat
 
 - Membrane Transport: Solution-Diffusion model with Arrhenius temperature dependence.
 
-- Note: The optimization logic with the pymoo library considers the trade-off between energy consumption (kWh/m³) and irreversible losses.
+> Note: The optimization logic with the pymoo library considers the trade-off between energy consumption (kWh/m³) and irreversible losses.
 
 ---
 ## Usage  
-**Launch the Notebook directly**  
+Launch the Notebook directly  
     ```
     jupyter notebook MV_OPT_multi-objective_SW_conc_wrapper.ipynb
     ```
