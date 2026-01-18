@@ -6,7 +6,7 @@ This repository contains a Python implementation for analyzing and optimizing **
 
 * **Thermophysical Property Modeling**: Implements correlations for seawater *density*, *viscosity*, and *osmotic pressure* as a function of temperature and salinity.
 * **Numerical modeling of full-scale RO pressure vessels**: Models the impact of different conditions on the system performances.
-* **Multi-Objective Optimization**: optimized for competing objectives using `scipy.optimize`.
+* **Multi-Objective Optimization**: optimized for competing objectives using `pymoo.optimize`.
 * **Visualization**: Includes tools for analyzing trade-offs (Pareto frontiers).
 
 ---
